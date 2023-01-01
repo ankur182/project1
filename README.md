@@ -2,4 +2,4 @@
 resume intital project1
 
 WEBSITE 
-https://ankur182.github.io/project1/
+https://arijit-song-album.netlify.app/
